@@ -25,3 +25,8 @@ This repository demonstrates AI-assisted software development using Node.js, Git
 - Learn AI-assisted development
 - Follow Conventional Commits
 - Build a well-organized project
+
+## AI Review
+
+This README was improved based on AI feedback.
+
